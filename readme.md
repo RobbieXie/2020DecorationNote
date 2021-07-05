@@ -147,19 +147,19 @@
 ~
 ## 八、我家美图
 我家选择了日系原木风的装修风格，尽量最大化利用家里的空间，显得big一点。
-![小院](./pictures/1xiaoyuan.jpg)
+![小院](./pictures/1xiaoyuan.png)
 
 我家客厅
-![客厅](./pictures/3keting.jpg)
+![客厅](./pictures/3keting.png)
 
 主卧
-![主卧](./pictures/4canting.jpg)
+![主卧](./pictures/5zhuwo.png)
 
 主卧大衣柜
-![大衣柜](./pictures/6yigui.jpg)
+![大衣柜](./pictures/6yigui.png)
 
 主卫
-![主卫](./pictures/7toilet.jpg)
+![主卫](./pictures/7toilet.png)
 
 ## 九、心得
 有空再写喽。。。
